@@ -1,4 +1,4 @@
-# Auth Request
+# Auth Req
 
 基于 Token 的简单认证系统。
 
