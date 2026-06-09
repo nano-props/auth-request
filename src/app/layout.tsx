@@ -3,8 +3,8 @@ import '../styles/globals.css'
 
 export const metadata: Metadata = {
   title: {
-    default: 'Nano Exp',
-    template: '%s | Nano Exp',
+    default: 'Nano Props',
+    template: '%s | Nano Props',
   },
 }
 
